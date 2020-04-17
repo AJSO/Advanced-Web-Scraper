@@ -5,11 +5,6 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-# with open('') as html_file:
-#     soup = BeautifulSoup(html_file, 'lxml')
-
-# for article in soup.find_all()
-
 
 soup = BeautifulSoup(source, 'lxml')
 
