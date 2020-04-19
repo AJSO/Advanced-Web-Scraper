@@ -1,6 +1,7 @@
 # scraping a website and storing the information acquired in a CVS file or Excel
 # https://www.youtube.com/watch?v=ng2o98k983k&t=1370s
 #https://github.com/drewblay/Personal-Finance-Django-App
+#https://github.com/TusharKapoor23/django-expense-tracker
 # 06-Nov-2019
 from bs4 import BeautifulSoup
 import requests
