@@ -7,7 +7,7 @@
 #=======================================================================
 #===============================tutorial Links=========================
 #https://dev.to/amartyadev/flutter-app-authentication-with-django-backend-1-21cp
-#
+#https://morioh.com/p/6ca2176eccbf
 #================================End of tutorial Links==================
 # 06-Nov-2019
 from bs4 import BeautifulSoup
