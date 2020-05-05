@@ -5,6 +5,10 @@
 #https://github.com/drewblay/Personal-Finance-Django-App
 #https://github.com/TusharKapoor23/django-expense-tracker
 #=======================================================================
+#===============================tutorial Links=========================
+#https://dev.to/amartyadev/flutter-app-authentication-with-django-backend-1-21cp
+#
+#================================End of tutorial Links==================
 # 06-Nov-2019
 from bs4 import BeautifulSoup
 import requests
